@@ -279,7 +279,7 @@ a:focus {
     height: 100%;
     object-fit: cover;
 }
-
+/*
 .carousel .carousel-item::after {
     position: absolute;
     content: "";
@@ -290,7 +290,7 @@ a:focus {
     background: rgba(0, 0, 0, .3);
     z-index: 1;
 }
-
+*/
 .carousel .carousel-caption {
     position: absolute;
     top: 0;
